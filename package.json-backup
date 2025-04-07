@@ -1,0 +1,21 @@
+{
+  "name": "back-end-development-and-apis",
+  "version": "1.0.0",
+  "author": "Chandra",
+  "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
+  "homepage": "https://github.com/chandralim168/Back-End-Development-and-APIs#readme",
+  "bugs": {
+    "url": "https://github.com/chandralim168/Back-End-Development-and-APIs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandralim168/Back-End-Development-and-APIs.git"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
